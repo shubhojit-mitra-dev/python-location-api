@@ -1,4 +1,4 @@
-# Indian Postal Code API
+# Location with Indian Postal Code API and OpenCage Geocoding API
 
 A RESTful API built with FastAPI that provides address details and geolocation information for Indian postal codes (PIN codes).
 
